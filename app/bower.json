@@ -1,0 +1,24 @@
+{
+  "name": "backbone-eshop",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "rkjha"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "jquery": "^2.2.0",
+    "mustache.js": "mustache#^2.2.1",
+    "bootstrap": "^3.3.6"
+  }
+}
